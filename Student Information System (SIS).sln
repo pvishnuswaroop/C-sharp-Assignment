@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISAPP", "SISAPP\SISAPP.csproj", "{73B28F0E-DC19-4642-B36F-62CA6D8DE6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISLibrary", "SISLibrary\SISLibrary.csproj", "{BFAAAC03-3AD4-4461-BB00-FAE4ED0B4660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B28F0E-DC19-4642-B36F-62CA6D8DE6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B28F0E-DC19-4642-B36F-62CA6D8DE6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B28F0E-DC19-4642-B36F-62CA6D8DE6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B28F0E-DC19-4642-B36F-62CA6D8DE6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAAAC03-3AD4-4461-BB00-FAE4ED0B4660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAAAC03-3AD4-4461-BB00-FAE4ED0B4660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAAAC03-3AD4-4461-BB00-FAE4ED0B4660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAAAC03-3AD4-4461-BB00-FAE4ED0B4660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B9FE82C-6A2C-4EC1-97D6-DAB1685EA55B}
+	EndGlobalSection
+EndGlobal
